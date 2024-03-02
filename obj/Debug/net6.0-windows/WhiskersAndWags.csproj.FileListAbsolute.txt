@@ -1,0 +1,217 @@
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.AssemblyReference.cache
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.exe
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.deps.json
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.runtimeconfig.json
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ActivityLog.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Appointments.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicCalendar.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicDashboard.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Form1.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Home.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Inventory.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ItemsServices.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MainDashboard.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Patients.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Properties.Resources.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesInvoice.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SignIn.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.StaffMembers.resources
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.GenerateResource.cache
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfoInputs.cache
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfo.cs
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CoreCompileInputs.cache
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\refint\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.genruntimeconfig.cache
+C:\Users\quiam\Downloads\WhiskersAndWags-20230713T155542Z-001\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\ref\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.exe
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.deps.json
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.runtimeconfig.json
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.AssemblyReference.cache
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ActivityLog.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Appointments.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicCalendar.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicDashboard.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Form1.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Home.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Inventory.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ItemsServices.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MainDashboard.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Patients.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Properties.Resources.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesInvoice.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SignIn.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.StaffMembers.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.GenerateResource.cache
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfoInputs.cache
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfo.cs
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CoreCompileInputs.cache
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\refint\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.genruntimeconfig.cache
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\ref\WhiskersAndWags.dll
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateRecord.resources
+C:\Users\quiam\Downloads\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdatePurchase.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.exe
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.deps.json
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.runtimeconfig.json
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.AssemblyReference.cache
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ActivityLog.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Appointments.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicCalendar.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicDashboard.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Form1.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Home.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Inventory.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ItemsServices.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MainDashboard.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Patients.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Properties.Resources.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesInvoice.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SignIn.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.StaffMembers.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdatePurchase.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateRecord.resources
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.GenerateResource.cache
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfoInputs.cache
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfo.cs
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CoreCompileInputs.cache
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\refint\WhiskersAndWags.dll
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.genruntimeconfig.cache
+C:\Users\quiam\Desktop\WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\ref\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\refint\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.exe
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.deps.json
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.runtimeconfig.json
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ActivityLog.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Appointments.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicDashboard.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Form1.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Home.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ItemsServices.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MainDashboard.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Patients.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Properties.Resources.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesInvoice.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SignIn.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.StaffMembers.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdatePurchase.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateRecord.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfo.cs
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.genruntimeconfig.cache
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\ref\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CopyComplete
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MedicalHistory.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateInventory.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.exe
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.deps.json
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.runtimeconfig.json
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ActivityLog.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Appointments.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ClinicDashboard.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Form1.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Home.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Inventory.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.ItemsServices.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MainDashboard.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.MedicalHistory.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Patients.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Properties.Resources.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesInvoice.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SignIn.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.StaffMembers.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateInventory.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdatePurchase.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.UpdateRecord.resources
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.AssemblyInfo.cs
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.csproj.CopyComplete
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\refint\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.pdb
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.genruntimeconfig.cache
+C:\Users\Student\Downloads\(2) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\ref\WhiskersAndWags.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Staff.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.DailyLog.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.DailyLogs.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Logs.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Invoice.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.Transactions.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\obj\Debug\net6.0-windows\WhiskersAndWags.SalesReport.resources
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\GemBox.Spreadsheet.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Google.Apis.Sheets.v4.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\Student\Downloads\(1) WhiskersAndWags\WhiskersAndWags\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ActivityLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Appointments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CeLearningTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="DailyLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Logs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MedicalHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ClinicDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ItemsServices.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="round.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RoundButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="SalesInvoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SalesReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StaffMembers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdateInventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdatePurchase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdateRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
